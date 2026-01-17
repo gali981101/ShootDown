@@ -1,0 +1,67 @@
+[
+    {
+        "id" : 1,
+        "image" : "brand-1"
+    },
+    {
+        "id" : 2,
+        "image" : "brand-2"
+    },
+    {
+        "id" : 3,
+        "image" : "brand-3"
+    },
+    {
+        "id" : 4,
+        "image" : "brand-4"
+    },
+    {
+        "id" : 5,
+        "image" : "brand-5"
+    },
+    {
+        "id" : 6,
+        "image" : "brand-6"
+    },
+    {
+        "id" : 7,
+        "image" : "brand-7"
+    },
+    {
+        "id" : 8,
+        "image" : "brand-8"
+    },
+    {
+        "id" : 9,
+        "image" : "brand-9"
+    },
+    {
+        "id" : 10,
+        "image" : "brand-10"
+    },
+    {
+        "id" : 11,
+        "image" : "brand-11"
+    },
+    {
+        "id" : 12,
+        "image" : "brand-12"
+    },
+    {
+        "id" : 13,
+        "image" : "brand-13"
+    },
+    {
+        "id" : 14,
+        "image" : "brand-14"
+    },
+    {
+        "id" : 15,
+        "image" : "brand-15"
+    },
+    {
+        "id" : 16,
+        "image" : "brand-16"
+    }
+]
+ 

@@ -1,0 +1,31 @@
+[
+    {
+        "id" : 1,
+        "image" : "poster-1"
+    },
+    {
+        "id" : 2,
+        "image" : "poster-2"
+    },
+    {
+        "id" : 3,
+        "image" : "poster-3"
+    },
+    {
+        "id" : 4,
+        "image" : "poster-4"
+    },
+    {
+        "id" : 5,
+        "image" : "poster-5"
+    },
+    {
+        "id" : 6,
+        "image" : "poster-6"
+    },
+    {
+        "id" : 7,
+        "image" : "poster-7"
+    }
+]
+ 
